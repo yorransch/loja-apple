@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Sedex",
+    "valor": 300
+  },
+  {
+    "type": "2-Day",
+    "valor": 500
+  },
+  {
+    "type": "Yorran Trasnport",
+    "valor": 150
+  }
+]
